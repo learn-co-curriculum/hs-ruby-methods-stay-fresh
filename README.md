@@ -12,15 +12,11 @@ type: stay-fresh
 Let's stay fresh on Ruby methods. Here are a few challenges you can jump in to to practice defining methods:
 
 + Define a currency converter from Dollars to Japanese Yen (The exchange rate is currently 1 Dollar = 105 Yen).
-
-
+<br>
 + Define a method that is given a name and prints the phrase "Good Morning" with the name.
-
-
+<br>
 + Define a method that, when called, prompts the user for their favorite song. Return the song name followed by the phrase, that is my favorite song too!!!
-
-
+<br>
 + Ve have Vays to make you talk: Define a method that replaces all w's in a given string to v's.
-
-
+<br>
 + Define a method that takes a string and replaces each letter in the string with the next letter in the alphabet. So "ABC" becomce "BCD" and "Cat" becomes "Dbu". (this is a tough one!)
