@@ -7,7 +7,7 @@ type: stay-fresh
 
 ## Stay Fresh: Methods
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNX1c5UX-hAZrPPR5STGx5KIN6bJ9SMBuPABVoodQ_J5L4VPgQ" align=right hspace=10>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNX1c5UX-hAZrPPR5STGx5KIN6bJ9SMBuPABVoodQ_J5L4VPgQ" align=right hspace="10">
 
 Let's stay fresh on Ruby methods. Here are a few challenges you can jump into to practice defining methods:
 
