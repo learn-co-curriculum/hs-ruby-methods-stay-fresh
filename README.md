@@ -1,9 +1,4 @@
----
-tags: methods
-langauges: ruby
-level: 1
-type: stay-fresh
----
+
 
 ## Stay Fresh: Methods
 
