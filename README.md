@@ -15,3 +15,5 @@ Let's stay fresh on Ruby methods. Here are a few challenges you can jump into to
 4. Ve have Vays to make you talk: Define a method that replaces all w's in a given string to v's.
 
 5. Define a method that takes a string and replaces each letter in the string with the next letter in the alphabet. So "ABC" becomce "BCD" and "Cat" becomes "Dbu". (This is a tough one!)
+
+<a href='https://learn.co/lessons/hs-ruby-methods-stay-fresh' data-visibility='hidden'>View this lesson on Learn.co</a>
